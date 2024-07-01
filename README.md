@@ -1,5 +1,5 @@
 ### Hi there 👋
-Dedicated and detail-oriented Data And Business Analyst with expertise in Python, MySQL, Tableau, and
+Dedicated and detail-oriented Full-Stack Developer with expertise in Python, MySQL, Tableau, and
 Advanced Excel. Proven ability to analyze complex data sets, derive actionable insights, and
 communicate findings effectively. Seeking a challenging position to leverage my skills and contribute to
 data-driven decision-making. A self-starter and a problem-solver with high levels of attention to detail,
