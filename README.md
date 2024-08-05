@@ -1,9 +1,5 @@
 ### Hi there 👋
-Dedicated and detail-oriented Data And Business Analyst with expertise in Python, MySQL, Tableau, and
-Advanced Excel. Proven ability to analyze complex data sets, derive actionable insights, and
-communicate findings effectively. Seeking a challenging position to leverage my skills and contribute to
-data-driven decision-making. A self-starter and a problem-solver with high levels of attention to detail,
-who uses continuous learning and innovation for performance improvement. 
+Detail-oriented Frontend Developer with experience in designing and developing dynamic web applications. Proficient in HTML, CSS, and JavaScript, with extensive experience in using React to create responsive and user-friendly interfaces. Skilled in integrating and managing MySQL databases, ensuring seamless data flow and storage solutions. Adept at translating client requirements into functional and visually appealing web applications while maintaining high standards of code quality and performance. Strong collaborator with a proven track record of working effectively in fast-paced environments to deliver high-quality projects on time.
 ![portfolio](https://github.com/imdSaurabh22/imdSaurabh22/assets/149091345/a60753b4-feed-46ae-889b-a666370b4031)
 
 <!--
