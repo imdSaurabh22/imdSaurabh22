@@ -1,5 +1,19 @@
 ### Hi there 👋
-Detail-oriented Data Analyst with experience in designing and developing dynamic web applications. Proficient in HTML, CSS, and JavaScript, with extensive experience in using React to create responsive and user-friendly interfaces. Skilled in integrating and managing MySQL databases, ensuring seamless data flow and storage solutions. Adept at translating client requirements into functional and visually appealing web applications while maintaining high standards of code quality and performance. Strong collaborator with a proven track record of working effectively in fast-paced environments to deliver high-quality projects on time.
+Data Analyst with a strong foundation in data mining, statistical analysis, and automation. I specialize in transforming raw data into actionable insights through Python scripting, advanced SQL queries, and dynamic dashboards.
+
+Across finance, operations, and R&D, I’ve streamlined data workflows, improved accuracy, and supported strategic decision-making. My work includes automating ETL processes that reduced manual effort by 90%, building scalable MySQL databases for multi-lakh recordsets, and designing interactive dashboards in Power BI, Tableau, and Excel that empower stakeholders with real-time visibility.
+
+Whether it’s evaluating shareholding patterns and equity valuations, optimizing pipelines with Pandas and Jupyter, or building intuitive web dashboards with HTML, CSS, and JavaScript, I thrive at the intersection of analytics, efficiency, and business strategy.
+
+Core Skills & Tools:
+🔹 SQL (Advanced)
+🔹 Python (Pandas, Matplotlib, Jupyter)
+🔹 Power BI & Tableau
+🔹 Data Cleaning & Validation
+🔹 Workflow Optimization & Automation
+🔹 Financial Analysis (Shares & Equity)
+
+I’m passionate about solving complex problems through data, uncovering trends that drive growth, and delivering solutions aligned with organizational goals.
 ![portfolio](https://github.com/imdSaurabh22/imdSaurabh22/assets/149091345/a60753b4-feed-46ae-889b-a666370b4031)
 
 <!--
