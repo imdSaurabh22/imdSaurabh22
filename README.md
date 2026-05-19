@@ -4,12 +4,12 @@ Across finance, operations, and R&D, I’ve streamlined data workflows, improved
 Whether it’s evaluating shareholding patterns and equity valuations, optimizing pipelines with Pandas and Jupyter, or building intuitive web dashboards with HTML, CSS, and JavaScript, I thrive at the intersection of analytics, efficiency, and business strategy.
 
 ## 🛠️ Core Skills & Tools
-- 🔹 SQL (Advanced)
-- 🔹 Python (Pandas, Matplotlib, Jupyter Notebook)
-- 🔹 Power BI & Tableau
-- 🔹 Data Cleaning, Validation & Transformation
-- 🔹 Workflow Optimization & Automation
-- 🔹 Financial & Equity Market Analysis
+ 🔹 SQL (Advanced)
+ 🔹 Python (Pandas, Matplotlib, Jupyter Notebook)
+ 🔹 Power BI & Tableau
+ 🔹 Data Cleaning, Validation & Transformation
+ 🔹 Workflow Optimization & Automation
+ 🔹 Financial & Equity Market Analysis
 ![portfolio](https://github.com/imdSaurabh22/imdSaurabh22/assets/149091345/a60753b4-feed-46ae-889b-a666370b4031)
 
 <!--
